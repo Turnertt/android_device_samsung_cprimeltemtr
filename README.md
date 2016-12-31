@@ -5,7 +5,7 @@
 
 In order to build LineageOS yourself, you must first setup a build environment. Instructions to do that can be found [here](https://source.android.com/source/initializing.html).
 
-Once you setup a build environment, initialize the CyanogenMod repo in your working directory using this command:
+Once you setup a build environment, initialize the LineageOS repo in your working directory using this command:
 > repo init -u git://github.com/LineageOS/android.git -b cm-12.1
 
 Next, initialize the device repositories, using this command:
