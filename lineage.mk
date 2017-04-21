@@ -6,4 +6,4 @@ $(call inherit-product, $(LOCAL_PATH)/full_cprimeltemtr.mk)
 
 # Setup device configuration
 PRODUCT_DEVICE := cprimeltemtr
-PRODUCT_NAME := cm_cprimeltemtr
+PRODUCT_NAME := lineage_cprimeltemtr
